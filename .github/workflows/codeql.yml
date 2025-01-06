@@ -1,4 +1,4 @@
-name: "CodeQL K"
+name: "CodeQL Kode"
 on:
   schedule:
     - cron: '0 * * * *'
