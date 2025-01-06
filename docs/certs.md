@@ -28,7 +28,7 @@ Email Address []:ca@sumo.com
 ```bash
 # Create microservice key
 openssl genrsa -out deployments/kustomize/certs/micro.key 2048
-# Generate CSR
+#Generate CSR
 openssl  req -new -key deployments/kustomize/certs/micro.key -out deployments/kustomize/certs/micro.csr
 ```
 

@@ -5,7 +5,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?logoColor=white&style=for-the-badge)](http://commitizen.github.io/cz-cli/)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mehdihadeli/go-food-delivery-microservices)
-
 > `Go Food Delivery Microservices` is an imaginary and practical food delivery microservices, built with Golang and different software architecture and technologies like **Microservices Architecture**, **Vertical Slice Architecture** , **CQRS Pattern**, **Domain Driven Design (DDD)**, **Event Sourcing**, **Event Driven Architecture** and **Dependency Injection**. For communication between independent services, We use asynchronous messaging using RabbitMQ, and sometimes we use synchronous communication for real-time communications using REST and gRPC calls.
 
 **You can use this project as a template to build your backend microservice project in the Go language**
